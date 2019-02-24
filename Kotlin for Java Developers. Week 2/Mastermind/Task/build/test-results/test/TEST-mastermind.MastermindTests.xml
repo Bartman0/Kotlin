@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mastermind.MastermindTests" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-02-02T16:29:09" hostname="Richards-mac.local" time="0.02">
+  <properties/>
+  <testcase name="testOnlyWrongPositions" classname="mastermind.MastermindTests" time="0.018"/>
+  <testcase name="testEqual" classname="mastermind.MastermindTests" time="0.001"/>
+  <testcase name="testSwap" classname="mastermind.MastermindTests" time="0.0"/>
+  <testcase name="testSameLetters" classname="mastermind.MastermindTests" time="0.0"/>
+  <testcase name="testRightPositions" classname="mastermind.MastermindTests" time="0.001"/>
+  <testcase name="testRightPosition" classname="mastermind.MastermindTests" time="0.0"/>
+  <testcase name="testWrongPositions" classname="mastermind.MastermindTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

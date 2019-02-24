@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="taxipark.TestTaxiPark" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-02-03T23:46:50" hostname="Richards-mac.local" time="0.046">
+  <properties/>
+  <testcase name="testFakeDrivers" classname="taxipark.TestTaxiPark" time="0.037"/>
+  <testcase name="testParetoPrincipleNoTrips" classname="taxipark.TestTaxiPark" time="0.0"/>
+  <testcase name="testParetoPrincipleSucceeds" classname="taxipark.TestTaxiPark" time="0.003"/>
+  <testcase name="testParetoPrincipleFails" classname="taxipark.TestTaxiPark" time="0.0"/>
+  <testcase name="testFrequentPassengers" classname="taxipark.TestTaxiPark" time="0.0"/>
+  <testcase name="testSmartPassengers" classname="taxipark.TestTaxiPark" time="0.002"/>
+  <testcase name="testTheMostFrequentTripDuration" classname="taxipark.TestTaxiPark" time="0.0"/>
+  <testcase name="testFaithfulPassengers" classname="taxipark.TestTaxiPark" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
